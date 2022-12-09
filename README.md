@@ -1,4 +1,4 @@
-# nodemcu_wifi_deauther
+# NODEMCU_WIFI_DEAUTHER
 A wifi attacking device that is able to do attacks like deauthentication in which it continuously sends deauthentication packets to that selected accesspoints 
 and no devices can connect with that access point also it can do beacon attacks in which device creates lot of fake access points to confuse users who want
 to access that access point.
