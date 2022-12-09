@@ -9,5 +9,5 @@ to access that access point.
 
 3. Third you need a bin file in which script of deauthentication and other attacks are present
 
-4.Then flash that script in to device and then power it up and connect to that device and search 192.168.4.1 and there will be a web interface from where you can
-do those attacks
+4.Then flash that script in to device and then power it up and connect to that device and search 192.168.4.1
+and there will be a web interface from where you cando those attacks
